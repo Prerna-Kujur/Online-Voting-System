@@ -3,6 +3,7 @@
 ## Features
 
 1.Key Features
+
 2.User Registration & Authentication: Voters can securely register and log in to cast their votes.
 3.Vote Casting: Users can vote in real-time for candidates or options.
 4.Real-Time Results: Instant aggregation and display of voting results after submission.
