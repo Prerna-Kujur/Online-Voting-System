@@ -1,5 +1,8 @@
 # Online Voting System
 
+## Project Overview
+The Online Voting System is designed to modernize the traditional voting process by providing a secure, transparent, and accessible platform for conducting elections. The sys
+
 ## Features
 
 -User Registration & Authentication: Voters can securely register and log in to cast their votes.
