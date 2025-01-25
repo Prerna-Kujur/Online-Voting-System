@@ -1,4 +1,4 @@
-# Online Voting App
+# Online Voting System
 
 ## Features
 
