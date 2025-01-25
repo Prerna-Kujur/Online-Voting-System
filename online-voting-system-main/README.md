@@ -2,22 +2,12 @@
 
 ## Features
 
-- Share my polls with my friends.
-- See the aggregate results of my polls.
-- Delete polls that I decide I don't want anymore.
-- Create a poll with any number of possible items.
-- Unauthenticated or authenticated user, I can see and vote on everyone's polls.
-- As an unauthenticated or authenticated user, I can see the results of polls in chart form. (This could be implemented using Chart.js)
-
-## Getting Started
-
-Include a `.env` file in the `server` directory with the following environment variables.
-
-```
-PORT = 3000
-DATABASE = 'mongodb://localhost/<DATABASE_NAME>'
-SECRET = 'ARandomGenratedkeyByusertokeephisauthenticationsecure'
-```
+1.Key Features
+2.User Registration & Authentication: Voters can securely register and log in to cast their votes.
+3.Vote Casting: Users can vote in real-time for candidates or options.
+4.Real-Time Results: Instant aggregation and display of voting results after submission.
+5.Secure Voting: Passwords are hashed, and each voter is given a unique token to prevent fraud.
+6.Easy to Use: A simple interface that allows voters to participate without complications.
 
 ## Built with
 
